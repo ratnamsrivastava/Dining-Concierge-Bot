@@ -3,4 +3,6 @@ A serverless, smart Dining Concierge Agent for providing restaurant suggestion u
 
 ![](Images/chatbot.png)
 
+![](Images/instructions.png)
+
 S3 bucket link: https://dining-conciergebot-yelp.s3.amazonaws.com/index.html
